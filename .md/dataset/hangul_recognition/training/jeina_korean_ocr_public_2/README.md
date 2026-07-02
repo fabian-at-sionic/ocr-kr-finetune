@@ -1,0 +1,1 @@
+[시각정보 기반 질의응답](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=104)
